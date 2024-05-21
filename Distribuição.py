@@ -6,10 +6,15 @@ import cmath
 
 O diagrama unifilar de um sistema de distribuição primário (13,8kV), aéreo, trifásico a três fios e aterrado na S/E. 
 
-Estão representados os equipamentos de proteção comumente utilizados: Disjuntor (52) ; Relés (51), que comandam o disjuntor; 
-Transformadores de Corrente (TC), que alimentam os relés ; Religador (R); Seccionalizador (S), que opera em conjunto com o religador e 
-Chave-Fusível (CF), cujo dispositivo sensor é o Elo-Fusível. Além destes equipamentos, 
-estão representados os Transformadores de Força (TF) e de Distribuição (TD) , localizados na S/E e nos ramais, 
+Estão representados os equipamentos de proteção comumente utilizados: 
+    Disjuntor (52) ; 
+    Relés (51), que comandam o disjuntor;
+    Transformadores de Corrente (TC), que alimentam os relés ; 
+    Religador (R); 
+    Seccionalizador (S), que opera em conjunto com o religador
+    Chave-Fusível (CF), cujo dispositivo sensor é o Elo-Fusível. 
+    
+Além destes equipamentos, estão representados os Transformadores de Força (TF) e de Distribuição (TD) , localizados na S/E e nos ramais, 
 respectivamente. 
 
 """
